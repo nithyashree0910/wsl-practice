@@ -1,2 +1,1 @@
-Hello WSL + Git
-This is a new line
+Line from Conflict-branch
